@@ -6,7 +6,6 @@
             #{greetings}
           </mj-text>
           <mj-raw>
-            Esto va a ir sin tocar!
             if domainApp === 'TurinPay'
               TurinPay detected
             else
