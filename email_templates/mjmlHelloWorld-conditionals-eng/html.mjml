@@ -4,10 +4,12 @@
         <mj-column>
           <mj-text>
             #{greetings}
+            <mj-raw>
               if domainApp === 'TurinPay'
                 TurinPay detected
               else
                 Another app detected
+            </mj-raw>
           </mj-text>
         </mj-column>
       </mj-section>
