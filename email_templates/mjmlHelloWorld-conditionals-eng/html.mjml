@@ -6,9 +6,9 @@
             #{greetings}
           </mj-text>
           <mj-raw>
-            if domainApp === 'TurinPay'
+            if (domainApp === 'TurinPay')
               TurinPay detected
-            else
+            |
               Another app detected
           </mj-raw>
         </mj-column>
