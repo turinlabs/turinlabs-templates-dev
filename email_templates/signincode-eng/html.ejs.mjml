@@ -19,7 +19,7 @@
 <%}%>
 -->
 
-        <mj-button href="#{domainApp}" padding="0px 32px" border-radius="16px" background-color="#FCA311" font-size="16px"    color="white">
+        <mj-button href="<%= domainApp %>" padding="0px 32px" border-radius="16px" background-color="#FCA311" font-size="16px"    color="white">
           ACCEDER
         </mj-button>
 
