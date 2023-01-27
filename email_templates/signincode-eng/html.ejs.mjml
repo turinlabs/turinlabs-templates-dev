@@ -18,6 +18,7 @@
 <!--
 <%}%>
 -->
+
         <mj-text padding="8px 32px" font-weight="700" font-size="16px" color="#FCA311" >Hello Turinlaber,</mj-text>
         <mj-text padding="8px 32px" font-size="16px" color="#111827" >Introduce the next digits to complete the login in #{domainApp}</mj-text>
         <mj-text padding="20px 32px" font-weight="700" font-size="20px" align="center" color="#111827" >#{code}</mj-text>
