@@ -13,7 +13,7 @@
         <mj-text padding="8px 32px" font-weight="700" font-size="16px" color="#FCA311" >Hello #{partnerName},</mj-text>
         <mj-text padding="8px 32px" font-size="16px" color="#111827" >Swap executed successfully!</mj-text>
         <mj-text padding="8px 32px" font-size="16px" color="#111827" >You have #{action} #{amountToken} #{tokenTicker} for #{amountUSDT} USDT</mj-text>
-        <mj-text padding="20px 32px" font-weight="700" font-size="20px" align="center" color="#111827" ><a href="#{urlTxHash}">link for the transaction hash</a></mj-text>
+        <mj-text padding="20px 32px" font-weight="700" font-size="20px" align="center" color="#111827" ><a href="'#{urlTxHash}'">link for the transaction hash</a></mj-text>
         <mj-text padding="8px 32px" font-size="16px" color="#111827" >Regards,</mj-text>
         <mj-text padding="6px 32px 24px" font-size="16px" color="#111827" >TurinLabs support Team</mj-text>
 
